@@ -11,8 +11,6 @@ Criação de um sistema e-commerce para inventário de produtos e dados de clien
 - Dados no localstorage;
 - Código fonte no github com o arquivo README detalhando as funcionalidades da programação;
 
-
-
 ## Visual
 
 ![Visual](public/visual.png)
