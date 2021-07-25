@@ -1,5 +1,5 @@
 # Cadastro
-Gestão de cadastros
+Gestão de cadastros salvando via localStorage do curso Hiring Coders #2 da Gama Academy.
 
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=black) [![Netlify Status](https://api.netlify.com/api/v1/badges/9aa29fae-e2ee-4844-8aa4-a3df1a6f3342/deploy-status)](https://app.netlify.com/sites/quizzical-mclean-6ccaeb/deploys)
 
