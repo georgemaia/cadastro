@@ -69,7 +69,7 @@ export default function Product(props: any) {
                     <S.Input id="description" type="text" value={product.description || ''} onChange={handleProductInput} />
                 </S.Fieldset>
                 <S.Fieldset>
-                    <S.Label htmlFor="price">Preço atual</S.Label>
+                    <S.Label htmlFor="price">Preço</S.Label>
                     <S.Input id="price" type="text" value={product.price || ''} onChange={handleProductInput} />
                 </S.Fieldset>
                 <S.ButtonContainer>
